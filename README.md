@@ -7,7 +7,7 @@ While my coinbox for my custom Arcade was in repair, I built this utility to emu
 ![alt text](https://raw.githubusercontent.com/metekamil/InsertCoinFX_download/master/screenshots/version100.jpg)
 
 # Usage
-After installation asign the keyboard buttons that are assigned to your coin buttons and the utility will play the sounds when they are pressed.  The utility has a total of 8 different sounds of coins being inserted that are played at random.
+After installation asign the keyboard buttons that are assigned to your coin buttons and the utility will play the sounds when they are pressed. In my case I had XPadder map joystick buttons to keyboard characters so this worked for my setup. The utility has a total of 8 different sounds of coins being inserted that are played at random.
 
 # Downloads
 
