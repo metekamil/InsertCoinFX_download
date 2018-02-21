@@ -11,4 +11,4 @@ After installation asign the keyboard buttons that are assigned to your coin but
 
 # Downloads
 
-[Goto Downloads](https://github.com/metekamil/InsertCoinFX_download/tree/master/download)
+[Download v1.00](https://github.com/metekamil/InsertCoinFX_download/blob/master/download/v1.00/InsertCoinFX.zip?raw=true)
